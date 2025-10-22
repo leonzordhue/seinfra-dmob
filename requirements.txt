@@ -1,0 +1,7 @@
+Flask==2.3.3
+Flask-Limiter==3.3.0
+Flask-Talisman==1.0.0
+Flask-WTF==1.1.1
+WTForms==3.0.1
+psycopg2-binary==2.9.7
+python-dotenv==1.0.0
